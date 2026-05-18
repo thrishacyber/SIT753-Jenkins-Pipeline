@@ -1,5 +1,5 @@
 // updated
-pipeline {
+pipeline  {
     agent any
 
     stages {
